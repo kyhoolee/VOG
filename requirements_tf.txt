@@ -12,7 +12,7 @@ chardet==3.0.4
 click==7.1.2
 cloud-tpu-client==0.8
 cloud-tpu-profiler==1.15.0rc1
-cloudpickle==1.2.2
+cloudpickle
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
