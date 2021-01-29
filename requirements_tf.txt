@@ -101,7 +101,7 @@ pygobject
 pyparsing==2.4.7
 pypng==0.0.20
 pyrsistent==0.16.0
-python-apt==1.4.1
+python-apt
 python-dateutil==2.8.1
 pytz==2020.1
 PyWavelets==1.1.1
