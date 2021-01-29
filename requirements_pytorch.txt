@@ -16,12 +16,12 @@ mkl-fft
 mkl-random
 mkl-service
 networkx==2.5
-numpy @ file:///opt/concourse/worker/volumes/live/c646f6b9-b398-438d-7dc7-c7142e0ba44b/volume/numpy_and_numpy_base_1596235504536/work
+numpy 
 olefile==0.46
 parso==0.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow @ file:///opt/concourse/worker/volumes/live/be1e8a56-c4be-4ffe-4fa7-5a0e9c460b1a/volume/pillow_1594307312933/work
+Pillow 
 prompt-toolkit==3.0.7
 ptyprocess==0.6.0
 Pygments==2.6.1
