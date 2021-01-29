@@ -6,7 +6,7 @@ decorator==4.4.2
 h5py==2.10.0
 imageio==2.9.0
 ipdb==0.13.3
-ipython==7.18.1
+ipython
 ipython-genutils==0.2.0
 jedi==0.17.2
 joblib==0.16.0
