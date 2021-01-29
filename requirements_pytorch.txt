@@ -13,8 +13,8 @@ joblib==0.16.0
 kiwisolver==1.2.0
 matplotlib==3.3.1
 mkl-fft
-mkl-random==1.1.1
-mkl-service==2.3.0
+mkl-random
+mkl-service
 networkx==2.5
 numpy @ file:///opt/concourse/worker/volumes/live/c646f6b9-b398-438d-7dc7-c7142e0ba44b/volume/numpy_and_numpy_base_1596235504536/work
 olefile==0.46
